@@ -28,6 +28,7 @@ The project follows a structured workflow:
 ---
 
 ## Repository Structure
+```
 fraud-detection-case/
 │
 ├── 01_business_problem.md
@@ -38,7 +39,7 @@ fraud-detection-case/
 ├── 06_decision_framework.md
 ├── 07_cost_impact.ipynb
 └── README.md
-
+```
 
 ---
 
