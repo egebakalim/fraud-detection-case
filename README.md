@@ -62,3 +62,13 @@ This project is intended for:
 ## Disclaimer
 The data used in this project is anonymized and publicly available.  
 The business context and decisions are simulated for educational and demonstration purposes.
+
+## Environment Setup
+
+To ensure reproducibility, the project uses a clean Python environment.
+
+```bash
+conda create -n fraud-case python=3.10
+conda activate fraud-case
+pip install -r requirements.txt
+```
