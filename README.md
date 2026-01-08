@@ -38,6 +38,7 @@ fraud-detection-case/
 ├── 05_explainability.ipynb
 ├── 06_decision_framework.md
 ├── 07_cost_impact.ipynb
+├── 08_production_readiness_monitoring.ipynb
 └── README.md
 ```
 
